@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>The Troll Channel</name>
+  <coder>A3J</coder>
+  <version>1.0</version>
+  <release_date>20130827</release_date>
+  <short_description>The Troll Channel</short_description>
+  <long_description>The Troll Channel is a Homebrew App that allows you to view a meme database on your Wii. Due to the database being external, there is a very high probability of the channel crashing. If you are booted to an automatic stack dump or the screen is black for more than 5 minutes, you may need to restart the Wii. If these problems keep persisting, try opening the dol file in Notepad and check if there are 518 lines, then try again. Here is a tutorial on how to open a dol file in Notepad: https://youtu.be/9ngZXRMou04</long_description>
+  <no_ios_reload/>
+</app>
